@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "Misael",
+      "telefono": "315852",
+      "correo": "pmpeloc@gmail.com",
+      "empresa": "Overcod",
+      "id": 1
+    },
+    {
+      "nombre": "Pedro",
+      "telefono": "75423334",
+      "correo": "lalo@mail.com",
+      "empresa": "Microsoft",
+      "id": 3
+    },
+    {
+      "nombre": "Nuybi",
+      "telefono": "549",
+      "correo": "asd@sdw.com",
+      "empresa": "Google",
+      "id": 5
+    },
+    {
+      "nombre": "Roberto",
+      "telefono": "12334",
+      "correo": "mail@mail.com",
+      "empresa": "Openix",
+      "id": 6
+    }
+  ]
+}
